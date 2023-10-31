@@ -5,10 +5,10 @@
 
 # About us
 
-We operate robust and meticulously monitored 24/7 non-custodial staking Web3 infrastructure, scattered in all part of the world.
-Our primary focus lies within the Cosmos Ecosystem, where we operate as distinguished validators and fervent developpers.
+We operate robust and meticulously monitored 24/7 non-custodial staking Web3 infrastructure, scattered all over the world.
+Our primary focus lies within the Cosmos Ecosystem, where we operate as distinguished validators and fervent developers.
 
-- We provide API/RPC/gRPC/WSS endpoints, Explorer, Snapshot, Discord Bots, and installation articles services, covering technical aspects for both Mainnets and Testnets.
+- We provide API/RPC/gRPC/WSS endpoints, Explorer, Snapshots, Discord Bots, and installation articles services, covering technical aspects for both Mainnets and Testnets.
 - We provide IBC Relayer services for Cosmos blockchains.
 - We help with technical insights and project updates through our Twitter, Telegram, and Medium channels, striving to reach a diverse audience and foster an informed community.
 - We offer moderator and ambassador services to support projects and engage with their respective communities.
@@ -16,7 +16,7 @@ Our primary focus lies within the Cosmos Ecosystem, where we operate as distingu
 
 # Our IBEX Loyalty Program
 
-## We enable stakers to earn ATOM, whatever the cryptocurrency they stake
+## We enable stakers to earn extra $ATOM, whatever the cryptocurrency they stake
 
 Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IBEX Loyalty Program</a></b> and access our app at <b><a href="https://app.highstakes.ch/" target="_blank">https://app.highstakes.ch/</a></b>!
 
