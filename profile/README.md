@@ -8,6 +8,11 @@
 We operate robust and meticulously monitored 24/7 non-custodial staking Web3 infrastructure, scattered in all part of the world.
 Our primary focus lies within the Cosmos Ecosystem, where we operate as distinguished validators and fervent developpers.
 
+- We provide API/RPC/gRPC/WSS endpoints, Explorer, Snapshot, Discord Bots, and installation articles services, covering technical aspects for both Mainnets and Testnets.
+- We provide IBC Relayer services for Cosmos blockchains.
+- We help with technical insights and project updates through our Twitter, Telegram, and Medium channels, striving to reach a diverse audience and foster an informed community.
+- We offer moderator and ambassador services to support projects and engage with their respective communities.
+
 
 # Our IBEX Loyalty Program
 
