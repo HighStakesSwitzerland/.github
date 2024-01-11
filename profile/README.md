@@ -132,6 +132,12 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/teritori/asset/tori.svg">
       </a>
     </td>
+    <td width="130px" align="center">
+    <span><strong>Andromeda</strong></span><br><br />
+    <a href="https://restake.highstakes.ch/andromeda/andrvaloper1ye3jpahj62jl7ds7ew2kngt20kplz4v2j5shf8" target="_blank" rel="noopener noreferrer">
+      <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png">
+    </a>
+  </td>
   </tr>
   </tr>
     <tr valign="top">
