@@ -44,7 +44,7 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
     <td width="130px" align="center">
       <span><strong>DyDx</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper1ku0vt2rzcdecqcf703vv8665sanz798p6j6zj0" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/dydx/chainImg/_chainimg.svg">
+        <img height="80px" src="https://github.com/cosmostation/chainlist/blob/main/chain/dydx/asset/dydx.svg">
       </a>
     </td>
     <td width="130px" align="center">
@@ -64,7 +64,7 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
     <td width="130px" align="center">
       <span><strong>Secret</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/secret/asset/scrt.svg">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/secret/asset/scrt.png">
       </a>
     </td>
     <td width="130px" align="center">
@@ -123,17 +123,11 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
     <td width="130px" align="center">
       <span><strong>Migaloo</strong></span><br><br />
       <a href="https://restake.highstakes.ch/migaloo/migaloovaloper1qvqqflpzkkakzwdkm2dx6f25sxnknuga4f90qp" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/migaloo/asset/ampwhale.png">
       </a>
     </td>
     <td width="130px" align="center">
-      <span><strong>Secret</strong></span><br><br />
-      <a href="" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src=https://github.com/cosmostation/chainlist/raw/main/chain/migaloo/asset/ampwhale.png"">
-      </a>
-    </td>
-    <td width="130px" align="center">
-      <span><strong>Secret</strong></span><br><br />
+      <span><strong>Teritori</strong></span><br><br />
       <a href="https://restake.highstakes.ch/teritori/torivaloper16dzaxgnq9zlac7yl3ar3zp4y2zgr9fm04w5ds9" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/teritori/asset/tori.svg">
       </a>
@@ -182,7 +176,7 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
     <td width="130px" align="center">
       <span><strong>DyDx</strong></span><br><br />
       <a href="https://testnet.mintscan.io/dydx-testnet/validators/dydxvaloper1h2xv8k5srnxgy6d35trt94rmhnyltpkwcy7gh5" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/dydx/chainImg/_chainimg.svg">
+        <img height="80px" src="https://github.com/cosmostation/chainlist/blob/main/chain/dydx/asset/dydx.svg">
       </a>
     </td>
     <td width="130px" align="center">
@@ -193,8 +187,8 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
     </td>
     <td width="130px" align="center">
       <span><strong>Lava</strong></span><br><br />
-      <a href="https://docs.lavanet.xyz/img/lava_logo.svg" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://explorer.stake-take.com/lava-testnet/staking/lava@valoper19pn5qcxajdg08248hs2pxlsvd6hsgzn9htt0uv">
+      <a href="https://explorer.stake-take.com/lava-testnet/staking/lava@valoper19pn5qcxajdg08248hs2pxlsvd6hsgzn9htt0uv" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://docs.lavanet.xyz/img/lava_logo.svg">
       </a>
     </td>
     <td width="130px" align="center">
