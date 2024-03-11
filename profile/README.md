@@ -42,12 +42,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </a>
     </td>
     <td width="130px" align="center">
-      <span><strong>DyDx</strong></span><br><br />
-      <a href="https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper1ku0vt2rzcdecqcf703vv8665sanz798p6j6zj0" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://github.com/cosmostation/chainlist/blob/main/chain/dydx/asset/dydx.svg">
-      </a>
-    </td>
-    <td width="130px" align="center">
       <span><strong>Injective</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/injective?modal=validator&chain=injective-1&validator_address=injvaloper1f2kdg34689x93cvw2y59z7y46dvz2fk8lhddfz" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg">
@@ -59,14 +53,14 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.svg">
       </a>
     </td>
-  </tr>
-  <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Secret</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg">
       </a>
     </td>
+    </tr>
+  <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Band</strong></span><br><br />
       <a href="https://restake.highstakes.ch/bandchain/bandvaloper1uytng9pl50mtedmsdrzanvy8vgxttvysw59ugd" target="_blank" rel="noopener noreferrer">
@@ -85,14 +79,14 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg">
       </a>
     </td>
-  </tr>
-    <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Iris</strong></span><br><br />
       <a href="https://restake.highstakes.ch/irisnet/iva1563p28q6qthzsq86jnywd5a8y8put33tqukl8d" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/irisnet/images/iris.svg">
       </a>
     </td>
+     </tr>
+    <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Provenance</strong></span><br><br />
       <a href="https://restake.highstakes.ch/provenance/pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre" target="_blank" rel="noopener noreferrer">
@@ -111,15 +105,15 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg">
       </a>
     </td>
-  </tr>
-  </tr>
-    <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Umee</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/umee?modal=validator&chain=umee-1&validator_address=umeevaloper1rtdcc3ukvf80xzqk00nsj5v06edf39q0yxe2ve" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.svg">
       </a>
     </td>
+        </tr>
+  </tr>
+    <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Migaloo</strong></span><br><br />
       <a href="https://restake.highstakes.ch/migaloo/migaloovaloper1qvqqflpzkkakzwdkm2dx6f25sxnknuga4f90qp" target="_blank" rel="noopener noreferrer">
@@ -138,15 +132,15 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png">
     </a>
   </td>
-  </tr>
-  </tr>
-    <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Aura</strong></span><br><br />
       <a href="https://aurascan.io/validators/auravaloper1282l7pgtfpfalgcdng9mjqura6m48a5855dfus" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/aura/images/Aura-logo-2.2.svg">
       </a>
     </td>
+      </tr>
+  </tr>
+    <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Neutron</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/neutron" target="_blank" rel="noopener noreferrer">
@@ -180,12 +174,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
   <tbody>
   <tr valign="top">
     <td width="130px" align="center">
-      <span><strong>DyDx</strong></span><br><br />
-      <a href="https://testnet.mintscan.io/dydx-testnet/validators/dydxvaloper1h2xv8k5srnxgy6d35trt94rmhnyltpkwcy7gh5" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://github.com/cosmostation/chainlist/blob/main/chain/dydx/asset/dydx.svg">
-      </a>
-    </td>
-    <td width="130px" align="center">
       <span><strong>Elys</strong></span><br><br />
       <a href="https://testnet.ping.pub/elys/" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://testnet.ping.pub/logos/elys.png">
@@ -203,14 +191,14 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.svg">
       </a>
     </td>
-  </tr>
-  <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Persistence</strong></span><br><br />
       <a href="https://testnet.mintscan.io/persistence-testnet/validators/persistencevaloper1akxdfne7vm4zr6ftg5xm8m8lpazxeyx7jesm3a" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg">
       </a>
     </td>
+      </tr>
+  <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Desmos</strong></span><br><br />
       <a href="https://testnet.bigdipper.live/desmos/validators/desmosvaloper1gnkurcj26g8cslkyen050vmdrhwk5azv6te0q7" target="_blank" rel="noopener noreferrer">
