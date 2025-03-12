@@ -100,12 +100,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </a>
     </td>
     <td width="130px" align="center">
-      <span><strong>Desmos</strong></span><br><br />
-      <a href="https://restake.highstakes.ch/desmos/desmosvaloper1mxt66nphve6pgkcwvjqmvjg9f7w569f5e500k4" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg">
-      </a>
-    </td>
-    <td width="130px" align="center">
       <span><strong>Umee</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/umee?modal=validator&chain=umee-1&validator_address=umeevaloper1rtdcc3ukvf80xzqk00nsj5v06edf39q0yxe2ve" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.svg">
@@ -114,12 +108,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         </tr>
   </tr>
     <tr valign="top">
-    <td width="130px" align="center">
-      <span><strong>Migaloo</strong></span><br><br />
-      <a href="https://restake.highstakes.ch/migaloo/migaloovaloper1qvqqflpzkkakzwdkm2dx6f25sxnknuga4f90qp" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/white-whale.svg">
-      </a>
-    </td>
     <td width="130px" align="center">
       <span><strong>Teritori</strong></span><br><br />
       <a href="https://restake.highstakes.ch/teritori/torivaloper16dzaxgnq9zlac7yl3ar3zp4y2zgr9fm04w5ds9" target="_blank" rel="noopener noreferrer">
