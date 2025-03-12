@@ -174,9 +174,9 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </a>
     </td>
     <td width="130px" align="center">
-      <span><strong>Lava</strong></span><br><br />
-      <a href="https://explorer.stake-take.com/lava-testnet/staking/lava@valoper19pn5qcxajdg08248hs2pxlsvd6hsgzn9htt0uv" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://docs.lavanet.xyz/img/lava_logo.svg">
+      <span><strong>Band Protocol V3</strong></span><br><br />
+      <a href="https://band-v3-testnet.cosmoscan.io/validator/bandvaloper18yk3stlsjwfm87ekqpntjgnf4hq9vh4dskdhz9" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/bandchain/images/band.svg">
       </a>
     </td>
     <td width="130px" align="center">
@@ -194,9 +194,9 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </tr>
   <tr valign="top">
     <td width="130px" align="center">
-      <span><strong>Desmos</strong></span><br><br />
-      <a href="https://testnet.bigdipper.live/desmos/validators/desmosvaloper1gnkurcj26g8cslkyen050vmdrhwk5azv6te0q7" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg">
+      <span><strong>Pell Network</strong></span><br><br />
+      <a href="https://testnet.pell.explorers.guru/validator/pellvaloper1a925d5avghcyyhjp6mj9xz8yajrqezmry9xyng" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/0xPellNetwork/pell_media_kit/refs/heads/main/logos/500r_blueblack.svg">
       </a>
     </td>
     <td width="130px" align="center">
@@ -206,12 +206,18 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </a>
     </td>
     <td width="130px" align="center">
-      <span><strong>OKP4</strong></span><br><br />
+      <span><strong>Axone</strong></span><br><br />
       <a href="https://okp4.network/" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/okp4testnet/images/okp4.png">
+        <img height="80px" src="https://raw.githubusercontent.com/axone-protocol/ping-explorer/refs/heads/main/src/assets/logo-white.svg">
       </a>
     </td>
+   <td width="130px" align="center">
+      <span><strong>Galactica</strong></span><br><br />
+      <a href="https://testnet.itrocket.net/galactica/staking/galavaloper1xxz5zr5xpneg327z06wmvwh2tq2s8q72wh9vt0" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/galactica/images/galactica.svg">
+      </a>
+    </td> 
   </tr>
   </tbody>
 </table>
-<img src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/9dc361c2-55c4-42e7-a8ff-e30b1edadb52" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
+<img src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/24afd6ba-0e4c-4f4e-ab0c-66b57d173100" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
