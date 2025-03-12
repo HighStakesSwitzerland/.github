@@ -218,6 +218,14 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </a>
     </td> 
   </tr>
+     <tr valign="top">
+    <td width="130px" align="center">
+      <span><strong>Union</strong></span><br><br />
+      <a href="https://explorer.testnet-9.union.build/union/staking/unionvaloper1tt4xnj2cwsl46d8quj9j0x3u8rpj68fy3txfck" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/unionlabs/union/refs/heads/main/site/public/logo.svg">
+      </a>
+    </td>
+     </tr>
   </tbody>
 </table>
 <img  height="80px" src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/24afd6ba-0e4c-4f4e-ab0c-66b57d173100" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
