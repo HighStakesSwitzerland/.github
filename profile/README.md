@@ -225,6 +225,18 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/unionlabs/union/refs/heads/main/site/public/logo.svg">
       </a>
     </td>
+    <td width="130px" align="center">
+      <span><strong>Cosmos</strong></span><br><br />
+      <a href="https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1w3mu723wf4sf2pmn8y847gd32ncp42sp9z8f9n" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg">
+      </a>
+    </td>
+    <td width="130px" align="center">
+      <span><strong>Neutron</strong></span><br><br />
+      <a href="https://www.mintscan.io/neutron-testnet/ics-validators/neutronvaloper1w3mu723wf4sf2pmn8y847gd32ncp42sp75r84r" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg">
+      </a>
+    </td>
      </tr>
   </tbody>
 </table>
