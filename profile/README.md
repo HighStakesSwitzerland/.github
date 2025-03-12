@@ -105,6 +105,12 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.svg">
       </a>
     </td>
+    <td width="130px" align="center">
+      <span><strong>Akash</strong></span><br><br />
+      <a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper17rzdt88vawuuq797jffk0dc9daw4vkgpumh60w" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg">
+      </a>
+    </td>  
         </tr>
   </tr>
     <tr valign="top">
@@ -126,6 +132,12 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/aura/images/Aura-logo-2.2.svg">
       </a>
     </td>
+      <td width="130px" align="center">
+      <span><strong>Shentu</strong></span><br><br />
+      <a href="https://wallet.keplr.app/chains/shentu?modal=validator&chain=shentu-2.2&validator_address=shentuvaloper1l5zz0v9ss3klrmga49uxha7f0fmpxmjx8kv6xy" target="_blank" rel="noopener noreferrer">
+        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/shentu/images/ctk.svg">
+      </a>
+    </td>
       </tr>
   </tr>
     <tr valign="top">
@@ -139,12 +151,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       <span><strong>Stride</strong></span><br><br />
       <a href="https://wallet.keplr.app/chains/stride" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg">
-      </a>
-    </td>
-    <td width="130px" align="center">
-      <span><strong>Shentu</strong></span><br><br />
-      <a href="https://wallet.keplr.app/chains/shentu?modal=validator&chain=shentu-2.2&validator_address=shentuvaloper1l5zz0v9ss3klrmga49uxha7f0fmpxmjx8kv6xy" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/shentu/images/ctk.svg">
       </a>
     </td>
   </tr>
