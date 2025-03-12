@@ -169,7 +169,7 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
   <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Elys</strong></span><br><br />
-      <a href="https://testnet.ping.pub/elys/" target="_blank" rel="noopener noreferrer">
+      <a href="https://testnet.itrocket.net/elys/staking/elysvaloper1pvrdh6rx6333csxahhyh3w9mfy30ykzk8mpgy5" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://testnet.ping.pub/logos/elys.png">
       </a>
     </td>
