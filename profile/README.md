@@ -220,4 +220,4 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
   </tr>
   </tbody>
 </table>
-<img src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/24afd6ba-0e4c-4f4e-ab0c-66b57d173100" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
+<img  height="80px" src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/24afd6ba-0e4c-4f4e-ab0c-66b57d173100" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
