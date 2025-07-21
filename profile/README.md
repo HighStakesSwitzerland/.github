@@ -1,6 +1,6 @@
 # Welcome to High Stakes Switzerland PoS validator team 🇨🇭
 
-<img src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/24afd6ba-0e4c-4f4e-ab0c-66b57d173100" style="display: inline-block; margin: 0 auto; max-width: 200px">
+<img src="https://github.com/HighStakesSwitzerland/.github/blob/15fd96410fca0df60887edd6157549832e194218/profile/HSS_Horizontal_Black.png" style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 
 # About us
@@ -140,20 +140,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
     </td>
       </tr>
   </tr>
-    <tr valign="top">
-    <td width="130px" align="center">
-      <span><strong>Neutron</strong></span><br><br />
-      <a href="https://wallet.keplr.app/chains/neutron" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg">
-      </a>
-    </td>
-    <td width="130px" align="center">
-      <span><strong>Stride</strong></span><br><br />
-      <a href="https://wallet.keplr.app/chains/stride" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg">
-      </a>
-    </td>
-  </tr>
   </tbody>
 </table>
 
@@ -194,18 +180,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
       </tr>
   <tr valign="top">
     <td width="130px" align="center">
-      <span><strong>Pell Network</strong></span><br><br />
-      <a href="https://testnet.pell.explorers.guru/validator/pellvaloper1a925d5avghcyyhjp6mj9xz8yajrqezmry9xyng" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/0xPellNetwork/pell_media_kit/refs/heads/main/logos/500r_blueblack.svg">
-      </a>
-    </td>
-    <td width="130px" align="center">
-      <span><strong>Hypersign</strong></span><br><br />
-      <a href="https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1qrty2e6kr3jwc6xwmy4s0wgvk2hk9khv9yx2fg" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/hypersigntestnet/images/hypersign.png">
-      </a>
-    </td>
-    <td width="130px" align="center">
       <span><strong>Axone</strong></span><br><br />
       <a href="https://okp4.network/" target="_blank" rel="noopener noreferrer">
         <img height="80px" src="https://raw.githubusercontent.com/axone-protocol/ping-explorer/refs/heads/main/src/assets/logo-white.svg">
@@ -231,13 +205,7 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg">
       </a>
     </td>
-    <td width="130px" align="center">
-      <span><strong>Neutron</strong></span><br><br />
-      <a href="https://www.mintscan.io/neutron-testnet/ics-validators/neutronvaloper1w3mu723wf4sf2pmn8y847gd32ncp42sp75r84r" target="_blank" rel="noopener noreferrer">
-        <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg">
-      </a>
-    </td>
      </tr>
   </tbody>
 </table>
-<img  height="80px" src="https://github.com/HighStakesSwitzerland/.github/assets/88625257/24afd6ba-0e4c-4f4e-ab0c-66b57d173100" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
+<img  height="80px" src="https://github.com/HighStakesSwitzerland/.github/blob/15fd96410fca0df60887edd6157549832e194218/profile/HSS_Horizontal_Black.png" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
