@@ -191,8 +191,6 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
         <img height="80px" src="https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/galactica/images/galactica.svg">
       </a>
     </td> 
-  </tr>
-     <tr valign="top">
     <td width="130px" align="center">
       <span><strong>Union</strong></span><br><br />
       <a href="https://explorer.testnet-9.union.build/union/staking/unionvaloper1tt4xnj2cwsl46d8quj9j0x3u8rpj68fy3txfck" target="_blank" rel="noopener noreferrer">
@@ -208,4 +206,5 @@ Learn more: <b><a href="https://highstakes.ch/earn-ibex/" target="_blank">The IB
      </tr>
   </tbody>
 </table>
+<br>
 <img  height="80px" src="https://github.com/HighStakesSwitzerland/.github/blob/15fd96410fca0df60887edd6157549832e194218/profile/HSS_Horizontal_Black.png" style="text-align: center; display: inline-block; margin: 0 auto; max-width: 1200px">
